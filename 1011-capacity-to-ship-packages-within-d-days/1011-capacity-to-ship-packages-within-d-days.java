@@ -1,17 +1,22 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
 
-        int sum = Arrays.stream(weights).sum();
-        int min = Arrays.stream(weights).max().getAsInt();
-        if (days == 1)
-            return sum;
-        for (int i = min; i <= sum; i++) {
-            if (isAllowed(weights, days, i)) {
-                return i;
+       int high = Arrays.stream(weights).sum();
+        int low = Arrays.stream(weights).max().getAsInt();
+        if (days == 1) return high;
+        int ans = -1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (isAllowed(weights, days, mid)) {
+                ans = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
 
-        return -1;
+
+        return ans;
     }
 
     private boolean isAllowed(int[] weights, int maxDays, int maxWeight) {
@@ -21,12 +26,10 @@ class Solution {
         for (int w : weights) {
             if ((count + w) > maxWeight) {
                 count = w;
-                //                System.out.println(count);
                 day++;
 
             } else {
                 count += w;
-                //                System.out.println("3 . " + count);
             }
         }
         
