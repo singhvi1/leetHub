@@ -16,6 +16,7 @@ class Solution {
             }
         }
 
-        return high  + k + 1;
+        // return low  + k;
+        return  high + k + 1;
     }
 }
