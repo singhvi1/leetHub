@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/singhvi1/leetHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/singhvi1/leetHub/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/singhvi1/leetHub/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhvi1/leetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/singhvi1/leetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/singhvi1/leetHub/tree/master/0217-contains-duplicate) |
 | [0410-split-array-largest-sum](https://github.com/singhvi1/leetHub/tree/master/0410-split-array-largest-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/singhvi1/leetHub/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhvi1/leetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/singhvi1/leetHub/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
