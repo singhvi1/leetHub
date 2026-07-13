@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/singhvi1/leetHub/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/singhvi1/leetHub/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/singhvi1/leetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/singhvi1/leetHub/tree/master/1189-maximum-number-of-balloons) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/singhvi1/leetHub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/singhvi1/leetHub/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/singhvi1/leetHub/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/singhvi1/leetHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/singhvi1/leetHub/tree/master/0035-search-insert-position) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/singhvi1/leetHub/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/singhvi1/leetHub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
