@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/singhvi1/leetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/singhvi1/leetHub/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/singhvi1/leetHub/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/singhvi1/leetHub/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/singhvi1/leetHub/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/singhvi1/leetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/singhvi1/leetHub/tree/master/0875-koko-eating-bananas) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhvi1/leetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/singhvi1/leetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/singhvi1/leetHub/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/singhvi1/leetHub/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
