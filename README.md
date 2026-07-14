@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/singhvi1/leetHub/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/singhvi1/leetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/singhvi1/leetHub/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/singhvi1/leetHub/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/singhvi1/leetHub/tree/master/1189-maximum-number-of-balloons) |
 | [3731-find-missing-elements](https://github.com/singhvi1/leetHub/tree/master/3731-find-missing-elements) |
 ## String
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/singhvi1/leetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/singhvi1/leetHub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/singhvi1/leetHub/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/singhvi1/leetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/singhvi1/leetHub/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/singhvi1/leetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/singhvi1/leetHub/tree/master/1189-maximum-number-of-balloons) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/singhvi1/leetHub/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/singhvi1/leetHub/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/singhvi1/leetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/singhvi1/leetHub/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/singhvi1/leetHub/tree/master/0451-sort-characters-by-frequency) |
 | [1552-magnetic-force-between-two-balls](https://github.com/singhvi1/leetHub/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/singhvi1/leetHub/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -109,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/singhvi1/leetHub/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/singhvi1/leetHub/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/singhvi1/leetHub/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
