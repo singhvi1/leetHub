@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/singhvi1/leetHub/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/singhvi1/leetHub/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/singhvi1/leetHub/tree/master/1552-magnetic-force-between-two-balls) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/singhvi1/leetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/singhvi1/leetHub/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/singhvi1/leetHub/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/singhvi1/leetHub/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/singhvi1/leetHub/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/singhvi1/leetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/singhvi1/leetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
@@ -148,5 +150,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/singhvi1/leetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/singhvi1/leetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
