@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/singhvi1/leetHub/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/singhvi1/leetHub/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/singhvi1/leetHub/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/singhvi1/leetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/singhvi1/leetHub/tree/master/0242-valid-anagram) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/singhvi1/leetHub/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/singhvi1/leetHub/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/singhvi1/leetHub/tree/master/1189-maximum-number-of-balloons) |
 ## Array
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/singhvi1/leetHub/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhvi1/leetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/singhvi1/leetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/singhvi1/leetHub/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/singhvi1/leetHub/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/singhvi1/leetHub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/singhvi1/leetHub/tree/master/0268-missing-number) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/singhvi1/leetHub/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/singhvi1/leetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/singhvi1/leetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/singhvi1/leetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/singhvi1/leetHub/tree/master/0268-missing-number) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/singhvi1/leetHub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/singhvi1/leetHub/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
