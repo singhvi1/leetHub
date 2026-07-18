@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/singhvi1/leetHub/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/singhvi1/leetHub/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/singhvi1/leetHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/singhvi1/leetHub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3731-find-missing-elements](https://github.com/singhvi1/leetHub/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/singhvi1/leetHub/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/singhvi1/leetHub/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/singhvi1/leetHub/tree/master/1189-maximum-number-of-balloons) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/singhvi1/leetHub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/singhvi1/leetHub/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/singhvi1/leetHub/tree/master/1552-magnetic-force-between-two-balls) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/singhvi1/leetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/singhvi1/leetHub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/singhvi1/leetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/singhvi1/leetHub/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/singhvi1/leetHub/tree/master/3867-sum-of-gcd-of-formed-pairs) |
