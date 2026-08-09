@@ -203,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/singhvi1/leetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/singhvi1/leetHub/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/singhvi1/leetHub/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/singhvi1/leetHub/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
