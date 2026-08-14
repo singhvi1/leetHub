@@ -15,21 +15,31 @@ public class Solution {
             return null;
         }
 
-        ListNode fast = head;
-        ListNode slow = head;
+        // ListNode fast = head;
+        // ListNode slow = head;
 
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
+        // while (fast != null && fast.next != null) {
+        //     slow = slow.next;
+        //     fast = fast.next.next;
 
-            if (slow == fast) {
-                slow = head;
-                while (slow != fast) {
-                    slow = slow.next;
-                    fast = fast.next;
-                }
-                return slow;
-            }
+        //     if (slow == fast) {
+        //         slow = head;
+        //         while (slow != fast) {
+        //             slow = slow.next;
+        //             fast = fast.next;
+        //         }
+        //         return slow;
+        //     }
+        // }
+
+        HashSet<ListNode> map = new HashSet<>();
+
+        ListNode temp=head;
+
+        while(temp !=null){
+            if(map.contains(temp)) return temp;
+            map.add(temp);
+            temp=temp.next;
         }
 
         return null;
