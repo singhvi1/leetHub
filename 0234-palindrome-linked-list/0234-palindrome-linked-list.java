@@ -9,25 +9,27 @@
  * }
  */
 class Solution {
+     ListNode left;
+
     public boolean isPalindrome(ListNode head) {
-        Stack<Integer> st = new Stack<>();
-        if (head == null || head.next == null) return true;
+        left = head;
+        return check(head.next);
+    }
 
-        ListNode temp = head;
-        while (temp != null) {
-            st.push(temp.val);
-            temp = temp.next;
+    private boolean check(ListNode right) {
+        if (right == null) {
+            return true;
         }
 
-        temp = head;
-        while (temp.next != null) {
-            int ele = st.pop();
-            if (temp.val != ele) {
-                return false;
-            }
-            temp = temp.next;
+        boolean res = check(right.next);
+        if (res == false) {
+            return false;
         }
+        if (right.val != left.val) {
+
+            return false;
+        }
+        left = left.next;
         return true;
-        
     }
 }
