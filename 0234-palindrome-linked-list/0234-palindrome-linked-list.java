@@ -9,27 +9,45 @@
  * }
  */
 class Solution {
-     ListNode left;
-
     public boolean isPalindrome(ListNode head) {
-        left = head;
-        return check(head.next);
+        if (head == null || head.next == null)
+            return true;
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast.next != null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        ListNode nwHead = reverse(slow.next);
+
+        ListNode temp1 = nwHead;
+        ListNode temp2 = head;
+
+        while (temp1 != null) {
+            if (temp1.val == temp2.val) {
+                temp1 = temp1.next;
+                temp2 = temp2.next;
+            } else {
+                reverse(nwHead);
+                return false;
+            }
+        }
+        reverse(nwHead);
+        return true;
     }
 
-    private boolean check(ListNode right) {
-        if (right == null) {
-            return true;
-        }
+    public static ListNode reverse(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
 
-        boolean res = check(right.next);
-        if (res == false) {
-            return false;
+        while (curr != null) {
+            ListNode nextTemp = curr.next; // Store reference to next node
+            curr.next = prev; // Reverse current node's pointer
+            prev = curr; // Move prev forward
+            curr = nextTemp; // Move curr forward
         }
-        if (right.val != left.val) {
-
-            return false;
-        }
-        left = left.next;
-        return true;
+        return prev; // prev is the new head
     }
 }
