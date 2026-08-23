@@ -254,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/singhvi1/leetHub/tree/master/0148-sort-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/singhvi1/leetHub/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/singhvi1/leetHub/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
