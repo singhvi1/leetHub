@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/singhvi1/leetHub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/singhvi1/leetHub/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/singhvi1/leetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/singhvi1/leetHub/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/singhvi1/leetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/singhvi1/leetHub/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/singhvi1/leetHub/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/singhvi1/leetHub/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/singhvi1/leetHub/tree/master/1021-remove-outermost-parentheses) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/singhvi1/leetHub/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/singhvi1/leetHub/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/singhvi1/leetHub/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/singhvi1/leetHub/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/singhvi1/leetHub/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
 | ------- |
